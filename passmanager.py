@@ -29,7 +29,7 @@ def main():
           elif choice == "0":
                break
           else:  
-               print("invalid choice")     
+               print("invalid option")     
 
 if __name__ == "__main__":
     main()
